@@ -1,4 +1,5 @@
-1. Run the Streamlit app by executing:
+1.Generate the openAI api key and place in .env file
+2. Run the Streamlit app by executing:
 ```bash
 streamlit run main.py
 
